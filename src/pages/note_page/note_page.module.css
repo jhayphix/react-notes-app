@@ -1,0 +1,11 @@
+.notes_text_area {
+  width: 100%;
+  min-height: 30rem;
+  background-color: var(--dark-color);
+  color: white;
+  border: none;
+}
+
+.notes_text_area:focus {
+  outline: none;
+}
